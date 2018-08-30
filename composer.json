@@ -1,0 +1,18 @@
+{
+    "name": "th3mouk/event-store-client",
+    "description": "HTTP Client to communicate with EventStore shipping Guzzle",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jérémy Marodon",
+            "email": "marodon.jeremy@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.13"
+    }
+}
