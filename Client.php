@@ -68,6 +68,7 @@ class Client
                 $stream,
                 (new EventCollection())->add($payload)
             );
+            return;
         }
 
         $this->sendEvent($stream, $payload);
