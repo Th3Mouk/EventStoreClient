@@ -17,7 +17,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Th3Mouk\\EventStoreClient": ""
+        "Th3Mouk\\EventStoreClient\\": ""
       }
     }
 }
